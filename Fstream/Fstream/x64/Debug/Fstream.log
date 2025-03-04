@@ -1,0 +1,4 @@
+﻿  Fstream.cpp
+D:\VSC Projects\Fstream\Fstream\Fstream.cpp(49,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VSC Projects\Fstream\Fstream\Fstream.cpp(54,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Fstream.vcxproj -> D:\VSC Projects\Fstream\x64\Debug\Fstream.exe

@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+D:\VSC Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(66,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VSC Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(97,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VSC Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(108,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VSC Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(142,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VSC Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(153,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> D:\VSC Projects\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672555242 source:c:\users\lalau\onedrive\desktop\game tik tak\tic tak toe\main.cpp
+	<iostream>
+	<stdlib.h>
+

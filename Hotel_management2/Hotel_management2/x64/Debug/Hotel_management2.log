@@ -1,0 +1,3 @@
+﻿  Hotel_management2.cpp
+D:\VSC Projects\Hotel_management2\Hotel_management2\Hotel_management2.cpp(117): warning C4715: 'Customer::room_check2': not all control paths return a value
+  Hotel_management2.vcxproj -> D:\VSC Projects\Hotel_management2\x64\Debug\Hotel_management2.exe

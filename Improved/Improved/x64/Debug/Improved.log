@@ -1,0 +1,6 @@
+﻿  Improved.cpp
+D:\VSC Projects\Improved\Improved\Improved.cpp(37,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VSC Projects\Improved\Improved\Improved.cpp(42,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VSC Projects\Improved\Improved\Improved.cpp(113,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VSC Projects\Improved\Improved\Improved.cpp(120,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Improved.vcxproj -> D:\VSC Projects\Improved\x64\Debug\Improved.exe

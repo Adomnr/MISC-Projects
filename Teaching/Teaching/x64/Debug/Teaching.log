@@ -1,0 +1,4 @@
+﻿  Teaching.cpp
+D:\VSC Projects\Teaching\Teaching\Teaching.cpp(208): warning C4715: 'Customer_initialization': not all control paths return a value
+D:\VSC Projects\Teaching\Teaching\Teaching.cpp(117): warning C4715: 'Customer::room_check2': not all control paths return a value
+  Teaching.vcxproj -> D:\VSC Projects\Teaching\x64\Debug\Teaching.exe
